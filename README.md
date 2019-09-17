@@ -1,2 +1,2 @@
 # first
-first repo
+first repo for git command demostration
